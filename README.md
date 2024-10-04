@@ -1,2 +1,2 @@
-# terraform-gcp-module-template
-[DRAFT] terraform GCP  module template for creating new modules.
+# terraform-aws-module-template
+[DRAFT] terraform aws module template for creating new modules.
